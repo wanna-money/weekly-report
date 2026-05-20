@@ -1,6 +1,6 @@
 # weekly-report
 
-一个 Claude Code skill，自动扫描 git 仓库提交记录，生成标准四段式周报。
+一个 Claude Code skill，自动扫描 git 仓库提交记录，生成周报。
 
 ## 功能
 
